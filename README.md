@@ -11,6 +11,7 @@ Version Control: GitHub
 www.linkedin.com/in/dingani-kandiwo
 ## Email
 freddie.dk3@gmail.com
+## AI Studio Repo
 
 <!--
 **FreddieDK3/FreddieDk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
