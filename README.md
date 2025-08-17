@@ -7,6 +7,11 @@ Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib, spaCy, Node.js 
 Development Tools: Jupyter Notebooks
 Version Control: GitHub
 
+## LinkedIn
+www.linkedin.com/in/dingani-kandiwo
+## Email
+freddie.dk3@gmail.com
+
 <!--
 **FreddieDK3/FreddieDk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
