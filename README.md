@@ -12,6 +12,7 @@ www.linkedin.com/in/dingani-kandiwo
 ## Email
 freddie.dk3@gmail.com
 ## AI Studio Repo
+https://github.com/FreddieDK3/AI-Studio-Project-
 
 <!--
 **FreddieDK3/FreddieDk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
